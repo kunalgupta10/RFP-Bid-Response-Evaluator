@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Streamlit config (optional if you have sensitive local settings)
+.streamlit/
+
+# temporary assets or files (if any are generated)
+.DS_Store
